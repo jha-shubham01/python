@@ -27,3 +27,8 @@ fibo = fibonacci()
 
 fibonacci_list = [next(fibo) for _ in range(10)]
 print(fibonacci_list)
+
+
+# By Shubham Jha
+# Youtube Channel: https://www.youtube.com/@CodewithSJ
+# Video Explanation: Coming soon...

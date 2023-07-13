@@ -26,3 +26,8 @@ try:
     print(f'Email sent: {email_body}')
 except Exception as e:
     print(f'Error in sending email: {e}')
+
+
+# By Shubham Jha
+# Youtube Channel: https://www.youtube.com/@CodewithSJ
+# Video Explanation: https://youtube.com/shorts/n9Ooxum-iUo

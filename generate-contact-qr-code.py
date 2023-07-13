@@ -14,3 +14,8 @@ img = qrcode.make(vcard)
 
 # Save the QR code image
 img.save("contact_qr_code.png")
+
+
+# By Shubham Jha
+# Youtube Channel: https://www.youtube.com/@CodewithSJ
+# Video Explanation: https://youtube.com/shorts/Fk_A7OHWEYA?feature=share
