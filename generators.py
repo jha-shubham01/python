@@ -1,3 +1,6 @@
+# By Shubham Jha (Code with SJ)
+# Subscribe to My Youtube Channel: https://www.youtube.com/@CodewithSJ
+# Video Explanation: https://youtube.com/shorts/dGr8y3WTmwQ?feature=share
 
 print("1. Check Even numbers")
 # 1. Check Even numbers
@@ -27,8 +30,3 @@ fibo = fibonacci()
 
 fibonacci_list = [next(fibo) for _ in range(10)]
 print(fibonacci_list)
-
-
-# By Shubham Jha
-# Youtube Channel: https://www.youtube.com/@CodewithSJ
-# Video Explanation: https://youtu.be/dGr8y3WTmwQ

@@ -1,6 +1,6 @@
-# By Shubham Jha
+# By Shubham Jha (Code with SJ)
 # Subscribe to My Youtube Channel: https://www.youtube.com/@CodewithSJ
-# Video Explanation: 
+# Video Explanation: https://youtu.be/Q5TBzCSAz_I
 
 
 """Python way to get values lists in sorted order"""

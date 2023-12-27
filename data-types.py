@@ -1,3 +1,8 @@
+# By Shubham Jha (Code with SJ)
+# Subscribe to My Youtube Channel: https://www.youtube.com/@CodewithSJ
+# Video Explanation: https://youtu.be/1hDAk3yAJ9U
+
+
 # string
 # name = input("Enter your name: ")
 # name = "Shubham"
