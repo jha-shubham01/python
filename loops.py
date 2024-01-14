@@ -27,6 +27,8 @@
 # for fruit in sequence:
 #     # Code to be executed for each item
 #     print(f"I love eating {fruit}!")
+#   if fruit == "apple":
+#       break
 # else:
 #     # Code to be executed if the loop finishes normally
 #     print("Else code block executed")
@@ -45,5 +47,10 @@ sequence = ["apple","banana", "orange"]
 
 [print(fruit) for fruit in sequence if fruit.startswith("a")]
 
-[print(fruit) if fruit.startswith("a") else print(f'I don\'t like {fruit}!') for fruit in sequence]
+[
+    print(fruit) 
+    if fruit.startswith("a") 
+    else print(f'I don\'t like {fruit}!') 
+    for fruit in sequence
+]
 
