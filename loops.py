@@ -1,3 +1,7 @@
+# By Shubham Jha (Code with SJ)
+# Subscribe to My Youtube Channel: https://www.youtube.com/@CodewithSJ
+# Video Explanation: https://youtu.be/3aE7hDzkgQs
+
 
 # # For Loop
 # # Sequence can be list, tuple, set, dictionary, and string
